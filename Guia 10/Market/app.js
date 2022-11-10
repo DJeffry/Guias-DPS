@@ -7,8 +7,8 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 
 class PantallaInicio extends React.Component {
   state={
-usuario:'',
-contrasena:''
+usuario:'id19789322_sassy',
+contrasena:'Hd4K2GBmFZP<ew3c'
 
   }
   static navigationOptions = {
